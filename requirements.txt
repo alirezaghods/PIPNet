@@ -1,0 +1,7 @@
+tensorboard
+tensorflow-gpu
+opencv=4.1.1=py37h0cc45ee_2
+numpy=1.17.2=py37haad9e8e_0
+matplotlib=3.1.2=py37_1
+pandas=0.25.3=py37he6710b0_0
+scikit-learn
